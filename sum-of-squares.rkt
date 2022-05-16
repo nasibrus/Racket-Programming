@@ -5,3 +5,5 @@
   (+ (square x)
      (square y)))
 (define (square x) (* x x))
+#|For running write (sum-of-squares x y) in interactions window
+|#
